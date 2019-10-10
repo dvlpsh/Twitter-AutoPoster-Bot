@@ -1,3 +1,3 @@
-# twitter-login-selenium
+Twitter-Login using Python-Selenium
 
-A Python Script that Automatically logs in to Twitter, given user name and password. 
+A Python Script that automatically logs in to Twitter, given user name and password. 
