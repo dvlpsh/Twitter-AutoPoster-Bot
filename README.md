@@ -41,5 +41,5 @@ You will be prompted for your username and password, once they are specified, th
 * Replies to Tweets having a specified keyword
 
 ## License
-Please go through the [LICENSE.md](LICENSE) file.
+The LICENSE can be found [here](LICENSE).
 
