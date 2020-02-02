@@ -44,5 +44,5 @@ You will be prompted for your username and password, once they are specified, th
 * Replies to Tweets having a specified keyword
 
 ## License
-The LICENSE can be found [here](LICENSE).
+This project uses the following LICENSE: [MIT LICENSE](LICENSE).
 
