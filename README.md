@@ -5,6 +5,7 @@
 * [Depedencies](#depedencies)
 * [Setup](#setup)
 * [Features](#features)
+* [License](#license)
 
 ## Description
 This is a Command-Line Interface for a Twitter Bot written in Python.
@@ -39,5 +40,6 @@ You will be prompted for your username and password, once they are specified, th
 * Posts insightful links(reads insightful links from a file and posts them as tweets)
 * Replies to Tweets having a specified keyword
 
-
+## License
+Please go through the [LICENSE.md]() file.
 
