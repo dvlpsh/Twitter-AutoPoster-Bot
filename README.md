@@ -1,5 +1,5 @@
 
-![Screenshot](twitbot-cropped.jpg)
+![Screenshot]()
 
 # Twitter AutoPoster Bot 
  
