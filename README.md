@@ -4,6 +4,7 @@
 * [Description](#description)
 * [Depedencies](#depedencies)
 * [Setup](#setup)
+* [Features](#features)
 
 ## Description
 This is a Command-Line Interface for a Twitter Bot written in Python.
@@ -30,4 +31,13 @@ Try [this](https://askubuntu.com/questions/937770/how-to-install-and-set-up-sele
 
 Now execute this script from the terminal using `python twitbot.py`.  
 You will be prompted for your username and password, once they are specified, this script automatially logs in to your Twitter Account.
+
+## Features
+* Automatic Login(prompts user for username and password on the terminal)
+* Retweets based on specified keyword
+* Likes Tweets based on specified keyword
+* Posts insightful links(reads insightful links from a file and posts them as tweets)
+* Replies to Tweets having a specified keyword
+
+
 
