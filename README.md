@@ -1,3 +1,6 @@
+
+![Screenshot](screeshot.png)
+
 # Twitter AutoPoster Bot 
  
 ## Table of contents
