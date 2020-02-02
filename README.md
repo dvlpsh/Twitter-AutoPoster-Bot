@@ -34,7 +34,7 @@ This Script has been written for the Firefox browser.
 Try [this](https://askubuntu.com/questions/937770/how-to-install-and-set-up-selenium-webdriver-on-ubuntu-16-04) to install Selenium, and [this](https://askubuntu.com/questions/851401/where-to-find-geckodriver-needed-by-selenium-python-package) for geckodriver required for Firefox(likewise ChromeDriver for Chrome).
 
 Now execute this script from the terminal using `python twitbot.py`.  
-You will be prompted for your username and password, once they are specified, this script automatially logs in to your Twitter Account.
+You will be prompted for your Consumer API Key, Consumer API Secret Key, Access Token and Access Toke Secret Key. On entering these details, you will be greeted with a menu as shown in the screenshot above. To login you will be prompted with your username and password, once they are specified, this script automatially logs in to your Twitter Account.
 
 ## Features
 * Automatic Login(prompts user for username and password on the terminal)
@@ -51,7 +51,7 @@ To contribute to this Project, follow these steps:
 - Push to the original branch: git push origin <project_name>/<location>
 - Create the pull request.
 
-Alternatively see the GitHub documentation on [reating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
 
 ## Contributors
