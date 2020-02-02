@@ -1,5 +1,5 @@
 
-![Screenshot]()
+![Screenshot](screenshot.jpg)
 
 # Twitter AutoPoster Bot 
  
