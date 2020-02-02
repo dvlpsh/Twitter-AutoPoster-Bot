@@ -43,6 +43,23 @@ You will be prompted for your username and password, once they are specified, th
 * Posts insightful links(reads insightful links from a file and posts them as tweets)
 * Replies to Tweets having a specified keyword
 
+## Contribute to this Project
+To contribute to this Project, follow these steps:
+- Fork this repository.
+- Create a branch: git checkout -b <branch_name>.
+- Make your changes and commit them: git commit -m '<commit_message>'
+- Push to the original branch: git push origin <project_name>/<location>
+- Create the pull request.
+
+Alternatively see the GitHub documentation on [reating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+
+
+## Contributors
+This project is developed and maintained by [@dvlpsh](https://github.com/dvlpsh).
+
+## Contact
+I can be reached at [dvlpsh21@gmail.com](mailto:dvlpsh21@gmail.com).
+
 ## License
 This project uses the following LICENSE: [MIT LICENSE](LICENSE).
 
