@@ -169,5 +169,3 @@ def main():
 	
 if __name__ == "__main__":
 	main()
-#1082163594190417920-xPxtAlkuVyvcIwsaI7Mo8aNmTiKTJV
-#TgNNT7HStTZklXsNNeHDUWkYrqAzISazkLZF59Kx5sIpz
