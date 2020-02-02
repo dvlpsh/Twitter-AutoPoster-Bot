@@ -1,7 +1,7 @@
 
-![Screenshot](screenshot.jpg)
+# Twitter AutoPoster Bot
 
-# Twitter AutoPoster Bot 
+![Screenshot](screenshot.jpg)
  
 ## Table of contents
 * [Description](#description)
