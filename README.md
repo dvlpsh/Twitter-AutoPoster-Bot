@@ -30,7 +30,7 @@ Project is created with:
 * You will also need a Twitter developer account. Check [this link](https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/) for details on how to get one.
 	
 ## Setup
-To run this project, download the `twitbot.py` Python Script after cloning this repository.
+To run this project, fork and clone this repository. *(Donot forget to star this repository if you like the project :P)*
 Python 3.6 or higher is preferred for smooth running, also Tweepy and Selenium must be installed.
 
 #### Installing Python 3.6 
