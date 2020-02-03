@@ -1,7 +1,7 @@
 
 # Twitter AutoPoster Bot
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub contributors](https://img.shields.io/github/contributors/dvlpsh/Twitter-AutoPoster-Bot)]()
+[[![GitHub contributors](https://img.shields.io/github/contributors/dvlpsh/Twitter-AutoPoster-Bot)]](#contributors)
 [![python-3.6](https://img.shields.io/badge/python-3.6-blue)](#dependencies)
 
 ![Screenshot](twitbot.png)
