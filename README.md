@@ -59,7 +59,7 @@ Alternatively see the GitHub documentation on [creating a pull request](https://
 This project is developed and maintained by [@dvlpsh](https://github.com/dvlpsh).
 
 ## Contact
-I can be reached at [dvlpsh21@gmail.com](mailto:dvlpsh21@gmail.com).
+I can be reached at my email: [dvlpsh21@gmail.com](mailto:dvlpsh21@gmail.com).
 
 ## License
 This project uses the following LICENSE: [MIT LICENSE](LICENSE).
