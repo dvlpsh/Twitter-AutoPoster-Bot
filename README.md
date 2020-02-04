@@ -16,7 +16,7 @@
 * [Run this project](#run-this-project)
 * [Features](#features)
 * [To Do](#to-do)
-* [Feature Requests](feature-requests)
+* [Feature Requests](#feature-requests)
 * [Contribute to this Project](#contribute-to-this-project)
 * [Contributors](#contributors)
 * [Contact](#contact)
