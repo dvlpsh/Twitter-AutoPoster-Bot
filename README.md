@@ -30,7 +30,7 @@ Project is created with:
 * Python version: 3.6.8
 * Tweepy version: 3.8.0
 * Selenium library version: 3.141.0
-* You will also need a Twitter developer account. Check [this link](https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/) for details on how to get one.
+* A Twitter developer account  
 	
 ## Setup
 To run this project, fork and clone this repository. *(Donot forget to star this repository if you like the project :P)*
@@ -45,6 +45,9 @@ Try [this](https://stackoverflow.com/questions/31325305/install-tweepy-on-ubuntu
 #### Installing Selenium
 This Script has been written for the Firefox browser.  
 Try [this](https://askubuntu.com/questions/937770/how-to-install-and-set-up-selenium-webdriver-on-ubuntu-16-04) to install Selenium, and [this](https://askubuntu.com/questions/851401/where-to-find-geckodriver-needed-by-selenium-python-package) for geckodriver required for Firefox(likewise ChromeDriver for Chrome).
+
+#### Getting a Twitter Developer Account
+Follow the instructions [here](https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/) for details on how to get one.
 
 ## Run this project
 Execute this script from the terminal/command line using 
