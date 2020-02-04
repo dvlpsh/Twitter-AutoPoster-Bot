@@ -13,7 +13,10 @@
 * [Description](#description)
 * [Depedencies](#depedencies)
 * [Setup](#setup)
+* [Run this project](run-this-project)
 * [Features](#features)
+* [To Do](#to-do)
+* [Feature Requests](feature-requests)
 * [Contribute to this Project](#contribute-to-this-project)
 * [Contributors](#contributors)
 * [Contact](#contact)
@@ -62,6 +65,14 @@ On entering these details, you will be greeted with a menu as shown in the scree
 * Likes Tweets based on specified keyword
 * Posts insightful links(reads insightful links from a file and posts them as tweets)
 * Replies to Tweets having a specified keyword
+
+## To Do ##
+- Add GUI, if possible
+- Add screenshots/GIFs of the working
+
+## Feature Requests ##
+Please open an issue titled '[Feature Request]' and provide as much details as possible for what you'd like as a feature.  
+Any suggestions to make this project better is welcomed! :)
 
 ## Contribute to this Project
 To contribute to this Project, follow these steps:
