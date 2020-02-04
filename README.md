@@ -92,5 +92,5 @@ This project is developed and maintained by [@dvlpsh](https://github.com/dvlpsh)
 Reach me at my email: [dvlpsh21@gmail.com](mailto:dvlpsh21@gmail.com).
 
 ## License
-This project uses the following LICENSE: [MIT LICENSE](LICENSE).
+This project uses the [MIT LICENSE](LICENSE).
 
