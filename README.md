@@ -81,7 +81,7 @@ Any suggestions to make this project better is welcomed! :)
 To contribute to this Project, follow these steps:
 - Fork this repository.
 - Create a branch: `git checkout -b <branch_name>`
-- Make your changes and commit them: `git commit -m '<commit_message>`
+- Make your changes and commit them: `git commit -m <commit_message>`
 - Push to the original branch: `git push origin <project_name>/<location>`
 - Create the pull request
 
