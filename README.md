@@ -11,7 +11,7 @@
  
 ## Table of contents
 * [Description](#description)
-* [Dependencies](#depedencies)
+* [Dependencies](#dependencies)
 * [Setup](#setup)
 * [Run this project](run-this-project)
 * [Features](#features)
