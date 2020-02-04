@@ -13,7 +13,7 @@
 * [Description](#description)
 * [Dependencies](#dependencies)
 * [Setup](#setup)
-* [Run this project](run-this-project)
+* [Run this project](#run-this-project)
 * [Features](#features)
 * [To Do](#to-do)
 * [Feature Requests](feature-requests)
