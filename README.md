@@ -37,21 +37,21 @@ To run this project, fork and clone this repository. *(Donot forget to star this
 Python 3.6 or higher is preferred for smooth running, also Tweepy and Selenium must be installed.
 
 #### Installing Python 3.6 
-Try [this](https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get).
+[This](https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get) link might help in case you donot have python 3.6 installed.
 
 #### Installing Tweepy
-Try [this](https://stackoverflow.com/questions/31325305/install-tweepy-on-ubuntu).
+Follow instructions [here](https://stackoverflow.com/questions/31325305/install-tweepy-on-ubuntu) to install Tweepy.
 
 #### Installing Selenium
 This Script has been written for the Firefox browser.  
-Try [this](https://askubuntu.com/questions/937770/how-to-install-and-set-up-selenium-webdriver-on-ubuntu-16-04) to install Selenium, and [this](https://askubuntu.com/questions/851401/where-to-find-geckodriver-needed-by-selenium-python-package) for geckodriver required for Firefox(likewise ChromeDriver for Chrome).
+Refer to [this](https://askubuntu.com/questions/937770/how-to-install-and-set-up-selenium-webdriver-on-ubuntu-16-04) to install Selenium, [this](https://askubuntu.com/questions/851401/where-to-find-geckodriver-needed-by-selenium-python-package) for geckodriver required for Firefox(likewise ChromeDriver for Chrome).
 
 #### Getting a Twitter Developer Account
 Follow the instructions [here](https://iag.me/socialmedia/how-to-create-a-twitter-app-in-8-easy-steps/) for details on how to get one.
 
 ## Run this project
-Execute this script from the terminal/command line using 
-`python twitbot.py`  
+Execute this script from the terminal/command line using  
+`$ python twitbot.py`  
 
 You will be prompted for the following 
 - your Consumer API Key
@@ -80,9 +80,9 @@ Any suggestions to make this project better is welcomed! :)
 ## Contribute to this Project
 To contribute to this Project, follow these steps:
 - Fork this repository.
-- Create a branch: `git checkout -b <branch_name>`
-- Make your changes and commit them: `git commit -m <commit_message>`
-- Push to the original branch: `git push origin <project_name>/<location>`
+- Create a branch: `$ git checkout -b <branch_name>`
+- Make your changes and commit them: `$ git commit -m <commit_message>`
+- Push to the original branch: `$ git push origin <project_name>/<location>`
 - Create the pull request
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
