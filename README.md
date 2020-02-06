@@ -37,7 +37,7 @@ To run this project, fork and clone this repository. *(Donot forget to star this
 Python 3.6 or higher is preferred for smooth running, also Tweepy and Selenium must be installed.
 
 #### Installing Python 3.6 
-[This](https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get) link might help in case you donot have python 3.6 installed.
+[This](https://askubuntu.com/questions/865554/how-do-i-install-python-3-6-using-apt-get) link might help in case Python 3.6  is not already installed on your system.
 
 #### Installing Tweepy
 Follow instructions [here](https://stackoverflow.com/questions/31325305/install-tweepy-on-ubuntu) to install Tweepy.
@@ -53,8 +53,8 @@ Follow the instructions [here](https://iag.me/socialmedia/how-to-create-a-twitte
 Execute this script from the terminal/command line using  
 `$ python twitbot.py`  
 
-You will be prompted for the following 
-- your Consumer API Key
+You will be prompted for the following: 
+- Consumer API Key
 - Consumer API Secret Key
 - Access Token
 - Access Token Secret Key
