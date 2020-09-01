@@ -19,7 +19,7 @@
 * [Feature Requests](#feature-requests)
 * [Contribute to this Project](#contribute-to-this-project)
 * [Contributors](#contributors)
-* [Contact](#contact)
+<!--* [Contact](#contact)>
 * [License](#license)
 
 ## Description
